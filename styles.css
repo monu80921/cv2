@@ -1,0 +1,266 @@
+body{
+
+  margin:0;
+  background-color: #bbe4e9;
+
+
+
+
+
+}
+a{
+  text-decoration: none;
+  color:aliceblue;
+}
+.links{
+  font-size: 20px;
+  color:aliceblue;
+  position: relative;
+  top: 115px;
+}
+.lastline{
+  font-family: 'Acme', sans-serif;
+}
+.lastsubline{
+  font-family: 'Patrick Hand', cursive;
+color:#0093AB;
+font-size: 30px;
+}
+.endbar{
+  height:115px;
+  width:100%;
+  position: relative;
+  top: 243px;
+}
+.endline{
+  color:aliceblue;
+  position: relative;
+  top:130px;
+}
+.top{
+  background-color: #76b5c5;
+  position: relative;
+  bottom:65px;
+  color:aliceblue;
+}
+.middle{
+  position: relative;
+  top:230px;
+  margin: 100px auto 100px auto;
+    width: 50%;
+}
+.middle1{
+  margin: 100px auto 100px auto;
+    width: 50%;
+    position: relative;
+    top: 300px;
+}
+.middle2{
+  position: relative;
+  top:630px;
+  left:30px;
+  margin: 100px auto 100px auto;
+
+}
+.skill1{
+  width:20%;
+}
+.c{
+  width: 150px;
+position: relative;
+left: 50px;
+}
+.cstars{
+  position: relative;
+    left: 77px;
+}
+.skill2{
+  width: 20%;
+position: relative;
+bottom: 208px;
+left: 305px;
+}
+.java{
+  width: 150px;
+}
+.javastars{
+  position: relative;
+    left: 39px;
+}
+.skill3{
+      width: 20%;
+      position: relative;
+      bottom: 416px;
+      left: 610px;
+}
+.python{
+  width: 150px;
+}
+.pythonstars{
+  position: relative;
+left: 38px;
+}
+.skill4{
+  width:20%;
+  position:relative;
+  bottom: 624px;
+left: 914px;
+}
+.html{
+  width: 150px;
+}
+.htmlstars{
+  position: relative;
+  left: 40px;
+}
+.skill5{
+  width:20%;
+  position: relative;
+  bottom: 832px;
+left: 1218px;
+}
+.css{
+  width: 150px;
+}
+.cssstars{
+  position: relative;
+  left: 44px;
+}
+.bio{
+  position: relative;
+  top: 60px;
+left: 60px;
+font-size: 20px;
+
+}
+.gameinfo{
+  position: relative;
+    top: 80px;
+    font-size: 20px;
+}
+p{
+  font-family: 'Patrick Hand', cursive;
+}
+
+h1{
+  position: relative;
+  top:280px;
+  font-family: 'Square Peg', cursive;
+  font-size: 80px;
+  text-align: center;
+}
+h2{
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  font-size: 50px;
+}
+h3{
+  position: relative;
+    top: 70px;
+    font-size: 20px;
+}
+.hobby2heading{
+  position:relative;
+  left:150px;
+}
+.hobby2{
+  position: relative;
+    top: 100px;
+}
+.hobby3{
+  position: relative;
+top: 158px;
+}
+.hobby4{
+  position: relative;
+top: 240px;
+}
+.hobby3heading{
+  position: relative;
+    right: 151px;
+}
+.hobby4heading{
+  position: relative;
+      left: 150px;
+}
+.top_para{
+  position: relative;
+  top:210px;
+  text-align: center;
+}
+.sidepic{
+  position: relative;
+height: 40px;
+bottom: 205px;
+left: 20px;
+}
+.cloud1{
+  position: relative;
+  bottom:118px;
+  left:260px;
+}
+.cloud2{
+  position: relative;
+  top:200px;
+  left:950px;
+}
+.sun{
+  height: 70px;
+  width: 70px;
+  position: relative;
+  bottom: 160px;
+  left: 950px;
+}
+.mountain{
+  width:100%;
+  height:400px;
+  position: relative;
+  top: 305px;
+  background-color: #76b5c5;
+
+}
+.bird1
+{
+  position: relative;
+    top: 200px;
+    right: 80px;
+    height: 80px;
+}
+.dp{
+  width: 200px;
+  float: left;
+  position: relative;
+}
+.gaming{
+  width: 150px;
+    float: right;
+}
+.netflix{
+  float: left;
+  width: 150px;
+  position: relative;
+  right:25px;
+}
+.seriesinfo{
+  position: relative;
+  top:75px;
+  font-size: 20px;
+}
+.sleeping{
+  width: 150px;
+  float:right;
+}
+.sleepinginfo{
+  position: relative;
+    top: 80px;
+    font-size: 20px;
+}
+.overthinking{
+  float: left;
+width: 150px;
+}
+.thinkinginfo{
+  position: relative;
+    font-size: 20px;
+    top: 70px;
+}
